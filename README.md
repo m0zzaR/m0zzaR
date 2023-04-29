@@ -9,7 +9,7 @@ UPDATE 2 YEARS LATER:
 I am in college now attending UC Berkeley for Mechanical Engineering.
 Still very interested in Computer Science, even more so than before!
 I am currently taking a MATLAB class as well as trying to self teach myself C/C++ so I can use Windows API.
-P.S. What is crazy is that I am updating this readme EXACTLY 2 years later. April 28 2021 - April 28 2023. I must be on some sort of internal coding clock haha.
+P.S. What is crazy is that I am updating this readme EXACTLY 2 years later completely by chance. [April 28 2021 - April 28 2023.] I must be on some sort of internal coding clock haha.
 
 <!---
 m0zzaR/m0zzaR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
